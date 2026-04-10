@@ -32,6 +32,7 @@ Conv2D(1, sigmoid)
     ↓
 Saliency Map  (224×224×1)  — probability in [0,1]
 
+```
 Dataset: [SALICON](https://www.salicon.net/)
 
 ---
